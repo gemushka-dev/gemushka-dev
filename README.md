@@ -15,7 +15,10 @@ I'm a **15-year-old aspiring Backend Developer**.
 - Node.js  
 - PostgreSQL  
 - Git / GitHub  
-- JavaScript, SQL  
+- JavaScript
+- TypeScript
+- React
+- HTML, CSS
 
 ---
 
@@ -23,6 +26,7 @@ I'm a **15-year-old aspiring Backend Developer**.
 - Backend basics
 - Databases & SQL
 - REST APIs fundamentals
+- Fullstack apps
 
 ---
 
