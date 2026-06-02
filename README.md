@@ -1,33 +1,33 @@
 # Hi 👋 I'm Iskandar
 
-I'm a **15-year-old aspiring Backend Developer**.
+I'm a **15-year-old aspiring Fullstack Developer**.
 
 ---
 
 ## 🚀 About Me
-- 💻 Learning backend development
-- 🎯 Goal: Backend Developer
+- 💻 Learning backend and frontend development
+- 🎯 Goal: Fullstack Developer
 - 📚 Focused on fundamentals and clean code
 
 ---
 
 ## 🛠️ Tech Stack
 - Node.js  
-- PostgreSQL  
+- PostgreSQL, ORM
 - Git / GitHub  
 - JavaScript
 - TypeScript
-- React
+- React, React-router
 - HTML, CSS
+- NextJS
+- WebSockets
 
 ---
 
 ## 🌱 Currently Learning
-- Backend basics
+- Clean architecture
 - Databases & SQL
-- REST APIs fundamentals
+- SSG applications
 - Fullstack apps
 
 ---
-
-⭐ *Learning step by step and building a strong foundation.*
