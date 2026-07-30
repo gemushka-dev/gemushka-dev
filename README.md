@@ -1,13 +1,13 @@
-# Hi 👋 I'm Iskandar
+# Hi. I'm Iskandar
 
 I'm a **15-year-old aspiring Fullstack Developer**.
 
 ---
 
 ## 🚀 About Me
-- 💻 Learning backend and frontend development
-- 🎯 Goal: Fullstack Developer
-- 📚 Focused on fundamentals and clean code
+-  Learning backend and frontend development
+-  Goal: Fullstack Developer
+-  Focused on fundamentals and clean code
 
 ---
 
@@ -19,7 +19,9 @@ I'm a **15-year-old aspiring Fullstack Developer**.
 - TypeScript
 - React, React-router
 - HTML, CSS
-- NextJS
+- NextJS,
+- NestJS,
+- Rust
 - WebSockets
 
 ---
@@ -29,5 +31,6 @@ I'm a **15-year-old aspiring Fullstack Developer**.
 - Databases & SQL
 - SSG applications
 - Fullstack apps
+- Desktop apps
 
 ---
