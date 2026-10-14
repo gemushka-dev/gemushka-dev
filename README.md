@@ -1,36 +1,29 @@
-# Hi. I'm Iskandar
+<p align="center">
+  <video src="https://raw.githubusercontent.com/gemushka-dev/gemushka-dev/main/gemdev.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
 
-I'm a **15-year-old aspiring Fullstack Developer**.
+### about
+16-year-old software engineer. building high performance desktop apps, fullstack sites
 
----
 
-## 🚀 About Me
--  Learning backend and frontend development
--  Goal: Fullstack Developer
--  Focused on fundamentals and clean code
-
----
-
-## 🛠️ Tech Stack
-- Node.js  
-- PostgreSQL, ORM
-- Git / GitHub  
-- JavaScript
-- TypeScript
-- React, React-router
-- HTML, CSS
-- NextJS,
-- NestJS,
-- Rust
-- WebSockets
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gemushka-dev@proton.me) 
 
 ---
 
-## 🌱 Currently Learning
-- Clean architecture
-- Databases & SQL
-- SSG applications
-- Fullstack apps
-- Desktop apps
+### core skills
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,git,postgresql,tauri&theme=dark" alt="core skills" />
+</p>
+
+- **languages**: Rust • JavaScript • TypeScript • SQL
+- **backend**: Express • Node.js • NestJS • REST APIs • WebSockets
+- **databases**: PostgreSQL
+- **tools & hardware**: Git  • Linux • Vite • Tauri
+
+
+### activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemushka-dev&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
