@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="https://raw.githubusercontent.com/gemushka-dev/gemushka-dev/main/gemdev.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/gemushka-dev/gemushka-dev/issues/1" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ### about
